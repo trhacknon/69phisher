@@ -41,7 +41,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##### Just, Clone this repository -
 ```
-$ git clone git://github.com/trhacknon/69phisher.git
+$ git clone https://github.com/trhacknon/69phisher.git
 ```
 
 ##### Change to cloned directory -
