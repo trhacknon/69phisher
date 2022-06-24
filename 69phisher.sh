@@ -4,7 +4,8 @@
 ##   69phisher 	: 	Automated Phishing Tool
 ##   Author 	: 	Akshay 
 ##   Version 	: 	1
-##   Github 	: 	https://github.com/Akshay-Arjun
+##   modder 	: 	trhacknon
+##   Github 	: 	https://github.com/trhacknon
 ## Modified version of :
 ##   Zphisher 	: 	Automated Phishing Tool
 ##   Author 	: 	TAHMID RAYAT 
@@ -83,7 +84,7 @@ ${ORANGE}              | |
 ${ORANGE}              |_|   ${RED}Version : 1.0
               
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Akshay-Arjun ${WHITE}
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Modded by trhacknon ${WHITE}
 EOF
 }
         
@@ -192,11 +193,13 @@ about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
 		${GREEN}Author   ${RED}:  ${ORANGE}Akshay Arjun
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/Akshay-Arjun
-		${GREEN}Social   ${RED}:  ${CYAN}https://bit.ly/AKSHAYARJUN
-		${GREEN}Version  ${RED}:  ${ORANGE}1.0
+                ${GREEN}Modder   ${RED}:  ${CYAN}trhacknon
+		${GREEN}Github   ${RED}:  ${ORANGE}https://github.com/Akshay-Arjun
+                ${GREEN}Github   ${RED}:  ${CYAN}https://github.com/trhacknon
+		${GREEN}Social   ${RED}:  ${ORANGE}https://bit.ly/AKSHAYARJUN
+		${GREEN}Version  ${RED}:  ${CYAN}1.0
 
-		${REDBG}${WHITE} Thanks : htr-tech,Adi1090x,MoisesTapia,ThelinuxChoice
+		${REDBG}${WHITE} Thanks : htr-tech,Adi1090x,Trhacknon,MoisesTapia,ThelinuxChoice
 								  DarkSecDevelopers,Mustakim Ahmed,1RaY-1 ${RESETBG}
 
 		${RED}Warning:${WHITE}
